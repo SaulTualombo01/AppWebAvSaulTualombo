@@ -5,4 +5,8 @@
 .vs
 bin
 Debug
-*.csproj.user
+*.user
+
+# Dependencias y archivos temporales de compilación
+packages/
+obj/
